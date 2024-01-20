@@ -5,12 +5,12 @@
  * to turn on debug messages
  */
 // WiFi credentials
-#define WIFI_SSID "IDEALab03"
-#define WIFI_PASS "griet@idealab"
+#define WIFI_SSID "xxxxxxxxxxxxxxx"
+#define WIFI_PASS "xxxxxxxxxxxx"
 
 // replace with your bot token and chat id
-#define TELEGRAM_TOKEN "6833458455:AAEiBg1sOXG5NxeQPLO7cKhWoq33q7OTqv0"
-#define TELEGRAM_CHAT "6766822168"
+#define TELEGRAM_TOKEN "xxxxxxxxxxxxxxxxxxxxxx"
+#define TELEGRAM_CHAT "xxxxxxxxxxx"
 
 
 #include <eloquent_esp32cam.h>
